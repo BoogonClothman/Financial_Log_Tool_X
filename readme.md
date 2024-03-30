@@ -4,7 +4,7 @@
 
 1. 2024年3月12日建立
 2. 2024年3月27日修改readme文件
-3. 2024年3月30日增加fltx-gui-core-cli.py文件，修改readme文件
+3. 2024年3月30日增加fltx-gui-with-cli.py文件，修改readme文件
 
 ## 简介
 
