@@ -1,7 +1,7 @@
 # Financial Log Tool X -- *FLTX*
 
 ## 日志
-1. 2024年3月12日 **FLTX**立项
+1. 2024年3月12日 **FLTX** 立项
 2. 2024年3月27日 修改 ***readme.md*** ，以更清楚地介绍程序
 3. 2024年3月30日 新增 ***fltx-gui-with-cli.py*** ，标志着 **FLTX** 开始建立GUI界面；修改***readme.md***，补充介绍 ***fltx-gui-with-cli.py***
 4. 2024年4月5日 新增 ***fltx-gui.py*** ，标志着 **FLTX** 实现命令行代码与 *tkinter* 界面代码的合并；重写 ***readme.md*** 以更清楚地介绍程序
