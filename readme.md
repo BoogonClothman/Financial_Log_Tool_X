@@ -5,6 +5,7 @@
 2. 2024年3月27日 修改 ***readme.md*** ，以更清楚地介绍程序
 3. 2024年3月30日 新增 ***fltx-gui-with-cli.py*** ，标志着 **FLTX** 开始建立GUI界面；修改***readme.md***，补充介绍 ***fltx-gui-with-cli.py***
 4. 2024年4月5日 新增 ***fltx-gui.py*** ，标志着 **FLTX** 实现命令行代码与 *tkinter* 界面代码的合并；重写 ***readme.md*** 以更清楚地介绍程序
+5. 2025年2月28日 决定停止 **FLTX** 开发，本仓库将存档。
 
 ## 简介
 
@@ -77,4 +78,4 @@ fltx statistics [-h] [-f FILE]
 
 如您有生动新奇的想法和建议，欢迎同我们联系。
 
-邮箱：[BoogonClothman@outlook.com](mailto:BoogonClothman@outlook.com)
+邮箱：[administrator@boogon.com](mailto:administrator@boogon.com)
